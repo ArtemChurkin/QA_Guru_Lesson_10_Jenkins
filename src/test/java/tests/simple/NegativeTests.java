@@ -8,7 +8,7 @@ public class NegativeTests {
 
     @Test
     public void someTest() {
-       assertTrue(false);
+        assertTrue(false);
     }
 
     @Test

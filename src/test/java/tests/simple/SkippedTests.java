@@ -20,7 +20,7 @@ public class SkippedTests {
     }
 
     @Test
-    @Disabled("Some reason2")
+    @Disabled("Some reason1")
     public void someTest2() {
         assertTrue(false);
     }

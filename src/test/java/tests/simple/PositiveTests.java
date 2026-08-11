@@ -20,4 +20,5 @@ public class PositiveTests {
     public void someTest2() {
         assertTrue(true);
     }
+
 }
